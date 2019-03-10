@@ -1,2 +1,2 @@
 # koaSequelize-template
-Templates with koa &amp; sequelize packages
+Templates with koa\sequelize packages
